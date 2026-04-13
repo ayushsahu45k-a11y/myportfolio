@@ -32,7 +32,7 @@ export default function About() {
           >
             <div className="aspect-[4/5] rounded-[2.5rem] overflow-hidden shadow-2xl shadow-violet-200/50 dark:shadow-violet-900/20 border-8 border-white dark:border-neutral-900 relative z-10">
               <img 
-                src="src/components/img2.jpg" 
+                src="https://github.com/ayushsahu45k-a11y/myportfolio/blob/main/images/img2.jpg" 
                 alt="Anime Aesthetic" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
