@@ -70,6 +70,9 @@ Cloud Hosting (Vercel)
  ┣ 📄 stayle.css
  ┣ 📄 main.js
  ┗ 📄 README.md
+
+---
+
 🧪 Run Locally
 git clone https://github.com/ayushsahu45k-a11y/ayushsahu45k-a11y.git
 cd ayushsahu45k-a11y
@@ -83,6 +86,8 @@ open index.html
 🧩 Real-world problem solving systems
 🤝 Let's Connect
 <p align="center"> <a href="https://github.com/ayushsahu45k-a11y"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"> </a> </p>
+
+ ---
 👨‍💻 Author
 
 Ayush Sahu
