@@ -1,5 +1,6 @@
 import { motion } from 'motion/react';
 import { Code2, GraduationCap, FolderOpen, Terminal, Brain, Database, Atom, BarChart, FileCode2 } from 'lucide-react';
+import aboutImage from './img2.jpg';
 
 const skills = [
   { name: 'Python', level: 90, color: 'bg-blue-500', icon: <Terminal size={16} /> },
@@ -32,7 +33,7 @@ export default function About() {
           >
             <div className="aspect-[4/5] rounded-[2.5rem] overflow-hidden shadow-2xl shadow-violet-200/50 dark:shadow-violet-900/20 border-8 border-white dark:border-neutral-900 relative z-10">
               <img 
-                src="src/components/img2.jpg" 
+                src={aboutImage} 
                 alt="Anime Aesthetic" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
