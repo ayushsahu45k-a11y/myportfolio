@@ -79,6 +79,7 @@ cd ayushsahu45k-a11y
 open index.html
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushsahu45k-a11y&show_icons=true&theme=tokyonight" height="170"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsahu45k-a11y&theme=tokyonight" height="170"> </p>
+
 🧠 Future Vision
 🤖 AI-powered personal assistant
 📊 Data science project integration
@@ -87,7 +88,7 @@ open index.html
 🤝 Let's Connect
 <p align="center"> <a href="https://github.com/ayushsahu45k-a11y"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"> </a> </p>
 
- ---
+ 
 👨‍💻 Author
 
 Ayush Sahu
