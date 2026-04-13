@@ -1,5 +1,6 @@
 import { motion } from 'motion/react';
 import { ArrowRight, Download, MapPin, Briefcase } from 'lucide-react';
+import heroImage from './img.jpg';
 
 export default function Hero() {
   return (
@@ -56,7 +57,7 @@ export default function Hero() {
         >
           <div className="aspect-square rounded-[2.5rem] overflow-hidden bg-neutral-100 dark:bg-neutral-800 relative shadow-2xl shadow-orange-200/50 dark:shadow-orange-900/20 border-8 border-white dark:border-neutral-900 z-10">
             <img 
-              src="src/components/img.jpg" 
+              src={heroImage} 
               alt="Anime Style Illustration" 
               className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
               referrerPolicy="no-referrer"
