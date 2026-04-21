@@ -1,0 +1,39 @@
+/**
+ * @license
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
+import About from './components/About';
+import Projects from './components/Projects';
+import Services from './components/Services';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+import DotField from './components/DotField';
+
+export default function App() {
+  return (
+    <div className="min-h-screen bg-neutral-50 text-neutral-900 font-sans selection:bg-neutral-900 selection:text-white relative">
+      <div className="fixed inset-0 -z-10 w-full h-full">
+        <DotField
+          dotRadius={1.5}
+          dotSpacing={14}
+          bulgeStrength={67}
+          glowRadius={160}
+          sparkle={false}
+          waveAmplitude={0}
+        />
+      </div>
+      <Navbar />
+      <main>
+        <Hero />
+        <About />
+        <Projects />
+        <Services />
+        <Contact />
+      </main>
+      <Footer />
+    </div>
+  );
+}
